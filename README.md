@@ -8,4 +8,4 @@ My solution uses three CNNs:
 
 For each image I extract features using those CNNs and concatenate them. 
 Then I apply PCA to reduce number of features to 64 and use SVM regression for getting prediction.
-PCA and SVM were trained for each account separately.U
+PCA and SVM were trained for each account separately.
